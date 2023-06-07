@@ -1,3 +1,4 @@
+Aplikacija za pića
 1.1	Svrha aplikacije 
 Kroz samostalni rad na kolegiju “Razvoj poslovnih aplikacija” razviti će se jednostavna aplikacija za pića koja podržava unos, uređivanje, brisanje, pretragu I popis pića u bazi. Aplikacija također treba omogućiti brisanje I prikaz detalja pojedinog pića. Svaki unos podataka kroz aplikaciju treba uključivati provjeru valjanostii za brisanje podataka je potrebna posebna potvrda korisnika.
 1.2	Korisnici aplikacije
